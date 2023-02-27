@@ -1,2 +1,1 @@
-# vue_moveable_playground
-Created with CodeSandbox
+# Vue 3 Diagram Editor
